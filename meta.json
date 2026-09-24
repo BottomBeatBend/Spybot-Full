@@ -1,0 +1,23 @@
+{
+  "repo": "spybot-full",
+  "product": "Spybot Full",
+  "kind": "security",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "endpoint-security",
+  "topics": [
+    "spybot",
+    "spybot-windows",
+    "endpoint-security-desktop",
+    "how-to-install-spybot",
+    "spybot-desktop-package",
+    "spybot-workspace",
+    "spybot-pro-tools",
+    "spybot-suite",
+    "zentool-spybot",
+    "spybot-tool-9"
+  ],
+  "site": "zentool.art"
+}
